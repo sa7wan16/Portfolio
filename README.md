@@ -24,9 +24,10 @@ Seeking opportunities to contribute to innovative security initiatives and prote
   * This project involves analyzing log files to extract specific information related to successful VPN authentication events.
   * [Link](https://github.com/sa7wan16/Log_Analysis_Project/tree/666fd73cbdec46f707ecfa33ebe46804dfaf8815)
 
-* **Incident Handlers Journal**
-  * Description
-  * Link:
+* **Security Audit**
+  * This project involves a comprehensive security audit of 'Botium Toys' entire security program, including its assets, internal network, and systems.
+    The audit aims to assess the existing assets and controls, identify compliance gaps, and recommend best practices to improve Botium Toys' security posture
+  * [Link](https://github.com/sa7wan16/Security_audit_project)
 
 **Experience**
 
