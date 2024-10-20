@@ -34,6 +34,12 @@ Seeking opportunities to contribute to innovative security initiatives and prote
     authorize appropriate users and remove unauthorized access, demonstrating my ability to implement access control measures to protect sensitive data and maintain system security.
   * [Link](https://github.com/sa7wan16/File_permissions_linux_project)
 
+
+* **Signatures and Rules in Suricata**
+  * This project explores the use of Suricata for network threat detection by creating and analyzing custom rules.The project enhances skills in network traffic analysis and 
+    security monitoring.
+  * [Link](https://github.com/sa7wan16/Suricata_project)
+
 **Experience**
 
 * **Zephyr Technologies and Solutions**
