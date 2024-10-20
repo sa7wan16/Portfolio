@@ -29,6 +29,11 @@ Seeking opportunities to contribute to innovative security initiatives and prote
     The audit aims to assess the existing assets and controls, identify compliance gaps, and recommend best practices to improve Botium Toys' security posture
   * [Link](https://github.com/sa7wan16/Security_audit_project)
 
+* **File Permissions in Linux**
+  * In this project, I reviewed and configured file and directory permissions in a Linux environment to ensure secure access for a research team. I adjusted permissions to 
+    authorize appropriate users and remove unauthorized access, demonstrating my ability to implement access control measures to protect sensitive data and maintain system security.
+  * [Link](https://github.com/sa7wan16/File_permissions_linux_project)
+
 **Experience**
 
 * **Zephyr Technologies and Solutions**
