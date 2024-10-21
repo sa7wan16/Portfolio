@@ -9,7 +9,7 @@ Seeking opportunities to contribute to innovative security initiatives and prote
 **Skills**
 
 * **Programming:** Python, SQL
-* **Tools:** Splunk, Wireshark
+* **Tools:** Splunk, Wireshark, Suricata
 * **Specialties:** Log Analysis, Vulnerability Assessment
 
 **Certifications**
