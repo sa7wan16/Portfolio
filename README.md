@@ -40,6 +40,13 @@ Seeking opportunities to contribute to innovative security initiatives and prote
     security monitoring.
   * [Link](https://github.com/sa7wan16/Suricata_project)
 
+* **Automating IP Access Updates**
+  * In this project, I developed a python algorithm to update the list and automate the removal of IP addresses that no longer have access from the list. Additionally, I ensured 
+    that the program handles potential errors, such as missing files or incorrect IP address formats, and confirm that the updated list of allowed IP addresses is correctly written 
+    back to the file.
+  * [Link](https://github.com/sa7wan16/Automating_file_updates_python_project)
+
+
 **Experience**
 
 * **Zephyr Technologies and Solutions**
