@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+#                                                                                   Portfolio
 
 **About Me**
 
@@ -19,6 +19,12 @@ Seeking opportunities to contribute to innovative security initiatives and prote
 * IBM Cyber Security - Advanced
 
 **Projects**
+
+* **CryptoStream**
+  * Developed CryptoStream, an innovative online video streaming platform integrating cryptocurrency payments for secure and seamless transactions. Built on the MERN stack 
+    (MongoDB, Express.js, React, Node.js), the platform enables users to enjoy a scalable, user-friendly streaming experience with blockchain-backed payment security. Features 
+    include user authentication, video catalog management, cryptocurrency payments, and content monetization, offering an advanced and decentralized streaming solution.
+  * [Link](https://github.com/sa7wan16/CryptoStream)
 
 * **Log Analysis**
   * This project involves analyzing log files to extract specific information related to successful VPN authentication events.
