@@ -64,5 +64,5 @@ Seeking opportunities to contribute to innovative security initiatives and prote
 
 **Contact**
 
-* Email: [sa7wan16@gmail.com]
+* sa7wan16@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/mohammedsafwanm/)
